@@ -1,5 +1,5 @@
 # nodejs-personal-planner
-This is a simple Personal Planner that displays all available tasks, create a new task and delete any task of your choice.
+This planner was built with NodeJS and MongoDB as the database. It is a simple Personal Planner that displays all available tasks, create a new task and delete any task of your choice.
 It connects to a MongoDB server to store data.  
 
 To get this running on your machine:  
